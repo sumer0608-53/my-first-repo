@@ -1,0 +1,5 @@
+-rwxrwxrwx 1 user user 26 Nov  5 19:07 Hello.txt
+-rwxrwxrwx 1 user user 18 Nov  5 19:10 helle.txt
+-rwxrwxrwx 1 user user  0 Nov  5 19:18 my_filed.txt
+-rwxrwxrwx 1 user user  0 Nov  5 19:20 my_files.txt
+-rwxrwxrwx 1 user user 49 Nov  5 19:16 result.txt
